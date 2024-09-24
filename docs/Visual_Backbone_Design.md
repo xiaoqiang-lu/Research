@@ -1,6 +1,6 @@
 # Visual Backbone Design
-- [ResNet](#Deep Residual Learning for Image Recognition)
-- [BEiT](#BERT Pre-Training of Image Transformers)
+- [ResNet](###Deep Residual Learning for Image Recognition)
+- [BEiT](###BERT Pre-Training of Image Transformers)
 
 ### Deep Residual Learning for Image Recognition, _CVPR 2016_
 - Paper: https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf
