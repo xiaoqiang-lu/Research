@@ -124,7 +124,7 @@
   title={ibot: Image bert pre-training with online tokenizer},
   author={Zhou, Jinghao and Wei, Chen and Wang, Huiyu and Shen, Wei and Xie, Cihang and Yuille, Alan and Kong, Tao},
   booktitle=ICLR,
-  year={2021}
+  year={2022}
 }
 ```
 
