@@ -5,7 +5,7 @@
 - **ST:** ST++, LSST, CISC-R
 - **CR:** CutMixSeg, CPS, AEL, U2PL, PSMT, UniMatch, AugSeg, WSCL, LogicDiag, CSS, AllSpark, CorrMatch, S4Former, SPEED
 
-# Natural Data
+## Natural Data
 
 **1. Adversarial Learning for Semi-Supervised Semantic Segmentation, _BMVC 2018_**
 - Paper: https://arxiv.org/abs/1802.07934
@@ -233,7 +233,7 @@
 }
 ```
 
-# Remote Sensing Data
+## Remote Sensing Data
 
 **1. Simple and Efficient: A Semisupervised Learning Framework for Remote Sensing Image Semantic Segmentation, _TGRS 2022_**
 - Paper: https://ieeexplore.ieee.org/document/9943552
