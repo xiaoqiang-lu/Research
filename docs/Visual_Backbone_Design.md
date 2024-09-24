@@ -1,8 +1,8 @@
 # Visual Backbone Design
-- [ResNet](###Deep Residual Learning for Image Recognition)
+- [ResNet](#Deep Residual Learning for Image Recognition)
 - [BEiT](###BERT Pre-Training of Image Transformers)
 
-### Deep Residual Learning for Image Recognition, _CVPR 2016_
+# Deep Residual Learning for Image Recognition, _CVPR 2016_
 - Paper: https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf
 - Code: https://github.com/huggingface/pytorch-image-models/blob/main/timm/models/resnet.py
 ```
@@ -53,7 +53,7 @@
 }
 ```
 
-### BERT Pre-Training of Image Transformers, _ICLR 2022_
+# BERT Pre-Training of Image Transformers, _ICLR 2022_
 - Paper: https://arxiv.org/pdf/2106.08254
 - Code: https://github.com/microsoft/unilm/tree/master/beit
 ```
