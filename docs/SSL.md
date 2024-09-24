@@ -3,7 +3,6 @@
 **Self-supervised learning generally involves a pretext task that is solved to learn a good representation without the use of labels, can mainly be divided into contrastive learning and generative learning:**
 - **Contrastive Learning:** MoCo, SimCLR, SimCLRv2, BYOL, SwAV, MoCov3, DINO, DINOv2
 - **Generative Learning:** MAE, iBOT, SimMIM
-# 
 
 ## Survey
 
