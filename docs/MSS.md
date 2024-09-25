@@ -140,3 +140,149 @@
 
 
 ## Remote Sensing Data
+
+**1. MCANet: A joint semantic segmentation framework of optical and SAR images for land use classification, _JAG 2022_**
+- Paper: https://www.sciencedirect.com/science/article/pii/S0303243421003457
+- Code: https://github.com/AmberHen/WHU-OPT-SAR-dataset
+```
+@article{mcanet,
+  title={MCANet: A joint semantic segmentation framework of optical and SAR images for land use classification},
+  author={Li, Xue and Zhang, Guo and Cui, Hao and Hou, Shasha and Wang, Shunyao and Li, Xin and Chen, Yujia and Li, Zhijiang and Zhang, Li},
+  journal=JAG,
+  volume={106},
+  pages={102638},
+  year={2022},
+  publisher={Elsevier}
+}
+```
+
+**2. CMGFNet: A deep cross-modal gated fusion network for building extraction from very high-resolution remote sensing images, _ISPRS 2022_**
+- Paper: https://www.sciencedirect.com/science/article/pii/S0924271621003294
+- Code: https://github.com/hamidreza2015/CMGFNet-Building_Extraction
+```
+@article{cmgfnet,
+  title={CMGFNet: A deep cross-modal gated fusion network for building extraction from very high-resolution remote sensing images},
+  author={Hosseinpour, Hamidreza and Samadzadegan, Farhad and Javan, Farzaneh Dadrass},
+  journal=ISPRS,
+  volume={184},
+  pages={96--115},
+  year={2022},
+  publisher={Elsevier}
+}
+```
+
+**3. Category-Wise Fusion and Enhancement Learning for Multimodal Remote Sensing Image Semantic Segmentation, _TGRS 2022_**
+- Paper: https://ieeexplore.ieee.org/document/9968034
+- Code: https://github.com/aihuazheng/CAFE
+```
+@article{cafe,
+  title={Category-wise fusion and enhancement learning for multimodal remote sensing image semantic segmentation},
+  author={Zheng, Aihua and He, Jinbo and Wang, Ming and Li, Chenglong and Luo, Bin},
+  journal=TGRS,
+  volume={60},
+  pages={1--12},
+  year={2022},
+  publisher={IEEE}
+}
+```
+
+**4. A Crossmodal Multiscale Fusion Network for Semantic Segmentation of Remote Sensing Data, _JSTARS 2022_**
+- Paper: https://ieeexplore.ieee.org/document/9749821
+- Code: https://github.com/sstary/SSRS
+```
+@article{cmfnet,
+  title={A crossmodal multiscale fusion network for semantic segmentation of remote sensing data},
+  author={Ma, Xianping and Zhang, Xiaokang and Pun, Man-On},
+  journal=JSTARS,
+  volume={15},
+  pages={3463--3474},
+  year={2022},
+  publisher={IEEE}
+}
+```
+
+**5. Progressive fusion learning: A multimodal joint segmentation framework for building extraction from optical and SAR images, _ISPRS 2023_**
+- Paper: https://www.sciencedirect.com/science/article/pii/S0924271622003082
+- Code: https://github.com/AmberHen/Progressive-fusion-learning
+```
+@article{pfl,
+  title={Progressive fusion learning: A multimodal joint segmentation framework for building extraction from optical and SAR images},
+  author={Li, Xue and Zhang, Guo and Cui, Hao and Hou, Shasha and Chen, Yujia and Li, Zhijiang and Li, Haifeng and Wang, Huabin},
+  journal=ISPRS,
+  volume={195},
+  pages={178--191},
+  year={2023},
+  publisher={Elsevier}
+}
+```
+
+**6. Aligning semantic distribution in fusing optical and SAR images for land use classification, _ISPRS 2023_**
+- Paper: https://www.sciencedirect.com/science/article/pii/S0924271623000977
+- Code: https://github.com/Margin1996/ASD
+```
+@article{asd,
+  title={Aligning semantic distribution in fusing optical and SAR images for land use classification},
+  author={Li, Wangbin and Sun, Kaimin and Li, Wenzhuo and Wei, Jinjiang and Miao, Shunxia and Gao, Song and Zhou, Qinhui},
+  journal=ISPRS,
+  volume={199},
+  pages={272--288},
+  year={2023},
+  publisher={Elsevier}
+}
+```
+
+**7. A Multilevel Multimodal Fusion Transformer for Remote Sensing Semantic Segmentation, _TGRS 2024_**
+- Paper: https://ieeexplore.ieee.org/document/10458980
+- Code: https://github.com/sstary/SSRS
+```
+@article{ftransunet,
+  title={A multilevel multimodal fusion transformer for remote sensing semantic segmentation},
+  author={Ma, Xianping and Zhang, Xiaokang and Pun, Man-On and Liu, Ming},
+  journal=TGRS,
+  year={2024},
+  publisher={IEEE}
+}
+```
+
+**8. Assisted learning for land use classification: The important role of semantic correlation between heterogeneous images, _ISPRS 2024_**
+- Paper: https://www.sciencedirect.com/science/article/pii/S0924271623003441
+- Code: https://github.com/Margin1996/Assisted_learning
+```
+@article{assisted_learning,
+  title={Assisted learning for land use classification: The important role of semantic correlation between heterogeneous images},
+  author={Li, Wangbin and Sun, Kaimin and Li, Wenzhuo and Huang, Xiao and Wei, Jinjiang and Chen, Yepei and Cui, Wei and Chen, Xueyu and Lv, Xianwei},
+  journal=ISPRS,
+  volume={208},
+  pages={158--175},
+  year={2024},
+  publisher={Elsevier}
+}
+```
+
+**9. SoftFormer: SAR-optical fusion transformer for urban land use and land cover classification, _ISPRS 2024_**
+- Paper: https://www.sciencedirect.com/science/article/pii/S0924271624003502
+- Code: https://github.com/rl1024/SoftFormer
+```
+@article{softformer,
+  title={SoftFormer: SAR-optical fusion transformer for urban land use and land cover classification},
+  author={Liu, Rui and Ling, Jing and Zhang, Hongsheng},
+  journal=ISPRS,
+  volume={218},
+  pages={277--293},
+  year={2024},
+  publisher={Elsevier}
+}
+```
+
+**10. MultiSenseSeg: A Cost-Effective Unified Multimodal Semantic Segmentation Model for Remote Sensing, _TGRS 2024_**
+- Paper: https://ieeexplore.ieee.org/document/10504922
+- Code: https://github.com/W-qp/MultiSenseSeg
+```
+@article{multisenseseg,
+  title={MultiSenseSeg: A cost-effective unified multimodal semantic segmentation model for remote sensing},
+  author={Wang, Qingpeng and Chen, Wei and Huang, Zhou and Tang, Hongzhao and Yang, Lan},
+  journal=TGRS,
+  year={2024},
+  publisher={IEEE}
+}
+```
