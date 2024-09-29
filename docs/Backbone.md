@@ -223,14 +223,14 @@
 }
 ```
 
-**18. VMamba: Visual State Space Model, _ArXiv 2024_**
+**18. VMamba: Visual State Space Model, _NIPS 2024_**
 - Paper: https://arxiv.org/abs/2401.10166
 - Code: https://github.com/MzeroMiko/VMamba
 ```
-@article{vmamba,
+@inproceedings{vmamba,
   title={VMamba: Visual State Space Model},
   author={Liu, Yue and Tian, Yunjie and Zhao, Yuzhong and Yu, Hongtian and Xie, Lingxi and Wang, Yaowei and Ye, Qixiang and Liu, Yunfan},
-  journal={arXiv preprint arXiv:2401.10166},
+  booktitle=NIPS,
   year={2024}
 }
 ```
