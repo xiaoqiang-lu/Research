@@ -14,8 +14,8 @@
 - Multi-task Learning
 - [Referring Image Segmentation](docs/RIS.md)
 - [Visual Grounding](docs/VG.md)
-- [Referring Expression Comprehension and Segmentation](docs/RECS.md)
-- [Visual Question Answering](docs/VQA.md)
+- Referring Expression Comprehension and Segmentation
+- Visual Question Answering
 - Vision-Language Models
 - Diffusion Models
 

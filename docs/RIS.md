@@ -1,6 +1,6 @@
 # Referring Image Segmentation
 
-**Referring image segmentation is a fundamental visionlanguage task that aims to segment out an object referred to by a natural language expression from an image.**
+**Referring image segmentation is a fundamental vision-language task that aims to segment out an object referred to by a natural language expression from an image.**
 
 ## Natural Data
 
