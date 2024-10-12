@@ -22,7 +22,7 @@
 # RSFM
 **We build a unified deep learning framework, RSFM, dedicated to achieving remote sensing perception, generation, and interpretation in one library. RSFM splits and regularizes various scientific tasks into an intuitive and streamlined structure, aiming to provide researchers with a readable, easily editable, and beginner-friendly codebase. Within RSFM, researchers can freely mix and match model components from different tasks to explore their full potential. Although RSFM focuses on remote sensing data, it is not limited to this domain; it also seamlessly supports natural, medical, synthetic, and industrial data as well.**
 - Code: https://github.com/IPIU-XDU/RSFM
-- Contributors: [Xiaoqiang Lu](https://github.com/xiaoqiang-lu), [Qin Ma](https://github.com/chunbai1), [Jiamin Cao](https://github.com/JMcarrot), [Jing Zhang](https://github.com/Jerry-jing), [Xinyu Liu](https://github.com/xxxxyliu), [Chenyue Che](https://github.com/chenyueche), [Yanyan Zu](https://github.com/Zuyanyan), [Yanzhao Zhang](https://github.com/stuzyz), [Jinming Chai](https://github.com/JMcarrot)
+- Contributors: [Xiaoqiang Lu](https://github.com/xiaoqiang-lu), [Qin Ma](https://github.com/chunbai1), [Jiamin Cao](https://github.com/JMcarrot), [Jing Zhang](https://github.com/Jerry-jing), [Xinyu Liu](https://github.com/xxxxyliu), [Chenyue Che](https://github.com/chenyueche), [Yanyan Zu](https://github.com/Zuyanyan), [Yanzhao Zhang](https://github.com/stuzyz), [Jinming Chai](https://github.com/JMcarrot), [Long Sun](https://github.com/JMcarrot)
 - Copyright (c) IPIU-XDU. All rights reserved.
 
 # Publication
