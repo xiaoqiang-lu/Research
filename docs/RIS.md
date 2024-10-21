@@ -235,3 +235,15 @@
   year={2024}
 }
 ```
+
+**5. Cross-Modal Bidirectional Interaction Model for Referring Remote Sensing Image Segmentation, _ArXiv 2024_**
+- Paper: https://arxiv.org/abs/2410.08613
+- Code: https://github.com/HIT-SIRS/CroBIM [No Open]
+```
+@article{dong2024cross,
+  title={Cross-Modal Bidirectional Interaction Model for Referring Remote Sensing Image Segmentation},
+  author={Zhe Dong, Yuzhe Sun, Yanfeng Gu and Tianzhu Liu},
+  journal={arXiv:2410.08613},
+  year={2024}
+}
+```
