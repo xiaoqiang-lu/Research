@@ -224,9 +224,9 @@
 }
 ```
 
-**4. Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation, _ArXiv 2024_**
+**4. Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation, _TGRS 2024_**
 - Paper: https://arxiv.org/abs/2409.13637
-- Code: None
+- Code: https://github.com/Shaosifan/FIANet
 ```
 @article{fianet,
   title={Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation},
@@ -245,5 +245,96 @@
   author={Zhe Dong, Yuzhe Sun, Yanfeng Gu and Tianzhu Liu},
   journal={arXiv:2410.08613},
   year={2024}
+}
+```
+
+**6. RSRefSeg: Referring Remote Sensing Image Segmentation with Foundation Models, _ArXiv 2025_**
+- Paper: https://arxiv.org/abs/2501.06809
+- Code: https://github.com/KyanChen/RSRefSeg
+```
+@article{chen2025rsrefseg,
+  title={RSRefSeg: Referring Remote Sensing Image Segmentation with Foundation Models},
+  author={Chen, Keyan and Zhang, Jiafan and Liu, Chenyang and Zou, Zhengxia and Shi, Zhenwei},
+  journal={arXiv preprint arXiv:2501.06809},
+  year={2025}
+}
+```
+
+**7. Scale-wise Bidirectional Alignment Network for referring remote sensing image segmentation, _ISPRS 2025_**
+- Paper: https://www.sciencedirect.com/science/article/pii/S0924271625001959
+- Code: None
+```
+@article{li2025scale,
+  title={Scale-wise Bidirectional Alignment Network for Referring Remote Sensing Image Segmentation},
+  author={Li, Kun and Vosselman, George and Yang, Michael Ying},
+  journal={arXiv preprint arXiv:2501.00851},
+  year={2025}
+}
+```
+
+**8. Referring Remote Sensing Image Segmentation via Bidirectional Alignment Guided Joint Prediction, _ArXiv 2025_**
+- Paper: https://arxiv.org/abs/2502.08486
+- Code: None
+```
+@article{zhang2025referring,
+  title={Referring Remote Sensing Image Segmentation via Bidirectional Alignment Guided Joint Prediction},
+  author={Zhang, Tianxiang and Wen, Zhaokun and Kong, Bo and Liu, Kecheng and Zhang, Yisi and Zhuang, Peixian and Li, Jiangyun},
+  journal={arXiv preprint arXiv:2502.08486},
+  year={2025}
+}
+```
+
+**9. Multimodal Prompt-Guided Bidirectional Fusion for Referring Remote Sensing Image Segmentation, _RS 2025_**
+- Paper: https://www.mdpi.com/2072-4292/17/10/1683
+- Code: None
+```
+@article{li2025multimodal,
+  title={Multimodal Prompt-Guided Bidirectional Fusion for Referring Remote Sensing Image Segmentation},
+  author={Li, Yingjie and Weiqi, Jin and Qiu, Su and Qiyang, Sun},
+  journal={Remote Sensing},
+  volume={17},
+  number={10},
+  pages={1683},
+  year={2025},
+  publisher={MDPI AG}
+}
+```
+
+**10. Multimodal-Aware Fusion Network for Referring Remote Sensing Image Segmentation, _GRSL 2025_**
+- Paper: https://ieeexplore.ieee.org/abstract/document/10838614
+- Code: https://github.com/Roaxy/MAFN
+```
+@ARTICLE{10838614,
+  author={Shi, Leideng and Zhang, Juan},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={Multimodal-Aware Fusion Network for Referring Remote Sensing Image Segmentation}, 
+  year={2025},
+  volume={22},
+  pages={1-5}
+}
+```
+
+**11. RSSep: Sequence-to-Sequence Model for Simultaneous Referring Remote Sensing Segmentation and Detection, _ACCV 2024_**
+- Paper: https://openaccess.thecvf.com/content/ACCV2024W/LAMM/html/Ho_RSSep_Sequence-to-Sequence_Model_for_Simultaneous_Referring_Remote_Sensing_Segmentation_and_ACCVW_2024_paper.html
+- Code: None
+```
+@inproceedings{ho2024rssep,
+  title={RSSep: Sequence-to-Sequence Model for Simultaneous Referring Remote Sensing Segmentation and Detection},
+  author={Ho, Ngoc-Vuong and Phan, Thinh and Adkins, Meredith and Rainwater, Chase and Cothren, Jackson and Le, Ngan},
+  booktitle={Proceedings of the Asian Conference on Computer Vision},
+  pages={218--231},
+  year={2024}
+}
+```
+
+**12. Customized SAM 2 for Referring Remote Sensing Image Segmentation, _ArXiv 2025_**
+- Paper: https://arxiv.org/abs/2503.07266
+- Code: None
+```
+@article{rong2025customized,
+  title={Customized SAM 2 for Referring Remote Sensing Image Segmentation},
+  author={Rong, Fu and Lan, Meng and Zhang, Qian and Zhang, Lefei},
+  journal={arXiv preprint arXiv:2503.07266},
+  year={2025}
 }
 ```
